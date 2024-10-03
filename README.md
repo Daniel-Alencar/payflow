@@ -4,18 +4,6 @@
 
 <h1 align="center">PayFlow</h1>
 
-- ✅ Liftoff 💪
-- ✅ Maximum Speed 🏃‍♂️
-- ✅ In Orbit 👨‍🚀 
-- ✅ Landing 🔥
-- ✅ Surface Exploration ⚡
-- ✅ Accelerating your Career 🚀
-- ✅ Mission Closure 💜
-
----
-
-<h2 align="center">Topics 📋</h2>
-
    <p>
    
    - [About 📖](#about-)
@@ -95,7 +83,8 @@
 <h2 align="center">How to Use 🤔</h2>
 
    ```
-   First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
+   First of all, correctly configure the Flutter development environment on your machine
+   see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
    $ git clone https://github.com/Daniel-Alencar/payflow
@@ -132,7 +121,7 @@
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   This repository is under MIT license. You can see the <a href="https://github.com/Daniel-Alencar/payflow/blob/master/LICENSE">LICENSE</a> file for more details. 😉
+   This repository is under MIT license. You can see the <a href="https://github.com/Daniel-Alencar/payflow/blob/main/LICENSE">LICENSE</a> file for more details. 😉
 </p>
 
    ---
