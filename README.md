@@ -132,7 +132,7 @@
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   This repository is under MIT license. You can see the <a href="https://github.com/felipecastrosales/payflow/blob/master/LICENSE">LICENSE</a> file for more details. 😉
+   This repository is under MIT license. You can see the <a href="https://github.com/Daniel-Alencar/payflow/blob/master/LICENSE">LICENSE</a> file for more details. 😉
 </p>
 
    ---
