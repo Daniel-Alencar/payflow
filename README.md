@@ -98,7 +98,7 @@
    First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/payflow payflow
+   $ git clone https://github.com/Daniel-Alencar/payflow
 
    - Enter in directory:
    $ cd payflow
@@ -137,13 +137,13 @@
 
    ---
 
-   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, in #NextLevelWeek from **[Rocketseat](https://rocketseat.com.br/)**.<br>
+   >This project was developed with ❤️ by **[@Daniel Alencar](https://www.linkedin.com/in/daniel746/)**, with the instructor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, in #NextLevelWeek from **[Rocketseat](https://rocketseat.com.br/)**.<br>
    If it helped you, give ⭐, contribute, it will help me too 😉
 
 ---
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Alencar-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel746/)](https://www.linkedin.com/in/daniel746/)
 
    </div>
